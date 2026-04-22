@@ -1,4 +1,4 @@
-# 🔬 Clinical Trial Tracker
+# 🔬 Clinical Trial Tracker - https://resilient-heliotrope-41f011.netlify.app/
 
 A modern web application for exploring and understanding clinical trials, powered by real-time data from [ClinicalTrials.gov](https://clinicaltrials.gov) and AI-generated plain-language summaries.
 
